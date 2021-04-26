@@ -3,6 +3,7 @@
 	"author": "Tomas Pinto",
 	"description": "Learning how to manage package.json of a project",
 	"keywords": [ "freecodecamp", "package.json", "learning", "node.js" ],
+	"version": "1.0.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
